@@ -1,0 +1,22 @@
+**Database Name: stockphp**
+
+
+**Recommended PHP Version 8.0 or Newer**
+
+
+**Admin Login Details**
+
+ID	: 1
+Password: 12345
+
+**Department Login**
+
+ID	: 2
+Password: 3875
+
+ID	: 10
+Password: 12345
+
+
+
+
