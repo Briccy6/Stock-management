@@ -3,7 +3,7 @@
   // DB Params
   define('DB_HOST', 'localhost');
   define('DB_USER', 'root');
-  define('DB_PASS', '');
+  define('DB_PASS', '@Brian123');
   define('DB_NAME', 'stockphp');
 
 
@@ -18,6 +18,6 @@
   // URL Root
   define('URLROOT', 'http://localhost/stock-management');
   // Site Name
-  define('SITENAME', 'STOCK MANAGEMENT SYSTEM');
+  define('SITENAME', 'Stock Management System');
   // App Version
   define('APPVERSION', '1.0.0');
